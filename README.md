@@ -33,6 +33,6 @@ Comming Soon...
 ---
 
 ## 📫 Contact
-- **Email:** [ykobayashipg@gmail.com]
+- **Email:** [kobabiba@gmail.com]
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kobayashiyuuhi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
