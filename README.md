@@ -51,7 +51,7 @@
 - 即日〜稼働可能
 - 業務委託・フリーランス案件を探しています
 
-> お問い合わせは GitHub の Issues または SNS からどうぞ。
+> 📫 kobabiba@gmail.com
 
 ---
 
