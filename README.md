@@ -1,38 +1,58 @@
-# Hi there, I'm Kobayashi 👋
+# Hi there 👋
 
-### 🤖 AI Engineer & Business Automation Specialist
-現場経験を活かし、「実務に直結するAI実装」を得意としています。
-現在、週4日フルリモートでの業務委託案件を募集しています。
+**C# / Unity エンジニア**　|　フリーランス稼働中　|　完全リモート
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** [C# / JavaScript / SQL]
-- **AI / LLM:** OpenAI API, Anthropic (Claude), LangChain, Dify, Make (Integromat)
-- **Other:** Web Scraping, Google Apps Script (GAS), Git/GitHub
+## 🛠 Skills
+
+**Languages**
+- C# — 約5年（主力言語）
+- Google Apps Script
+- HTML / CSS
+- SQL
+- VBA
+
+**Frameworks / Engines**
+- Unity（ゲーム・VRアプリ開発）
+- .NET Framework（業務アプリ開発）
+
+**Tools**
+- Git / GitHub
+- VS Code
+- Google Workspace
+
+**Now Learning**
+- AI活用（Claude / ChatGPT）— 個人で実践中
 
 ---
 
-## 🚀 Projects (Selected)
-*現在、実務で活用できるAIツールのデモを順次公開中！*
-Comming Soon...
-<!--
-- **[AI Business Intelligence Tool](リポジトリURL)**
-  - PythonとChatGPT APIを使用し、競合調査を自動化・要約してSlackへ通知するスクリプト。
-- **[Automated Document Generator](リポジトリURL)**
-  - 事務作業の効率化を目的とした、PDF解析＆要約AIボット。
--->
+## 💼 Experience（概要）
+
+約5年のソフトウェア開発経験。
+
+- **ゲーム開発** — スマートフォン向けRPG・インゲーム機能開発（C# / Unity）
+- **VRアプリ開発** — VRシミュレーター設計・実装・実機テスト（Unity / Meta Quest）
+- **業務アプリ開発** — PDF操作・請求書自動化ツールを1名で要件定義〜開発（C# / .NET）
+- **Webツール開発** — CSVデータ連携のインタラクティブWebツール（GAS / HTML+CSS）
+- **システム保守** — バグ調査・問い合わせ対応（SQL）
 
 ---
 
-## 💼 Work Preference
-- **Availability:** 週4日（曜日・時間は柔軟に対応可能）
-- **Roles:** AIツール開発, 業務フロー自動化, AI導入支援（コンサルティング）
-- **Target:** 月25万円〜の継続案件・プロジェクト案件
+## 🚀 Repos
+
+*個人プロジェクトを順次公開予定*
 
 ---
 
-## 📫 Contact
-- **Email:** [kobabiba@gmail.com]
+## 💬 Availability
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kobayashiyuuhi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 完全フルリモート ✅
+- 即日〜稼働可能
+- 業務委託・フリーランス案件を探しています
+
+> お問い合わせは GitHub の Issues または SNS からどうぞ。
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kobayashiyuuhi&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kobayashiyuuhi)
